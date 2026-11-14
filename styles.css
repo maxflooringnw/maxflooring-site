@@ -80,7 +80,7 @@ a.card:hover{border-color:var(--tan-dd);box-shadow:0 2px 8px rgba(0,0,0,.15)}
 .gallery figcaption{font-size:13px;color:#6b5a43;margin-top:4px}
 
 .areas{display:flex;flex-wrap:wrap;gap:8px}
-.areas a{padding:6px 12px;border:1px solid var(--tan);background:#fff;text-decoration:none;color:var(--brown);font-size:14px}
+.areas a,.areas span{padding:6px 12px;border:1px solid var(--tan);background:#fff;text-decoration:none;color:var(--brown);font-size:14px}
 .areas a:hover{background:var(--tan)}
 
 .steps{counter-reset:s;list-style:none;padding:0!important}
